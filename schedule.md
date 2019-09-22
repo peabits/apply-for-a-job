@@ -2,7 +2,7 @@
 [bottom](#bottom)
 <a id="top"></a>
 
-- [ ] [百度](https://talent.baidu.com/external/baidu/campus.html#/campus)
+- [x] [百度](https://talent.baidu.com/external/baidu/campus.html#/campus)
 - [x] [阿里巴巴](https://campus.alibaba.com/index.htm)
 - [ ] [腾讯](https://join.qq.com/)
 - [ ] [字节跳动](https://job.bytedance.com/campus/position)
@@ -10,7 +10,7 @@
 - [x] [网易互联网职位](https://campus.163.com/app/index)
 - [x] [网易有道](http://hr.youdao.com/)
 - [ ] [网易雷火游戏](https://campus.163.com/app/hy/lh)
-- [ ] [网易互娱游戏](https://campus.163.com/app/game/hy)
+- [x] [网易互娱游戏](https://campus.163.com/app/game/hy)
 - [x] [哔哩哔哩](https://campus.bilibili.com/index.html)
 - [x] [去哪儿网](http://campus.qunar.com/#/?anchorName=default_banner&sourceToken=&_k=bbc4ar)
 - [ ] [搜狐](https://hr.sohu.com/wt/sohu/web/index/campus)
